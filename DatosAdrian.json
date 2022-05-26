@@ -1,0 +1,46 @@
+{
+	"nombre": "Jesus Adrian Tec Garrido",
+    "edad": "19 años",
+	"fechaNacimiento": "19/11/2002",
+	"telefono": "9842760484",
+	"puestoSolicitado": "Creador de aplicaciones web" ,
+	"lenguages":[
+		"python",
+		"javascript",
+		"html",
+		"css"
+	],
+	"baseDeDatos":[
+		"Mysql",
+		"Sql Server",
+		"MongoDB"
+	],
+	"paqueteria":[
+		"excel",
+        "Word",
+        "PowerPoint"
+	],
+	
+	"experienciaLaboral":[
+		{
+			"empresa": "Superfiestas",
+			"Puesto": "Administrador y creador de la aplicación",
+			"fechaIngreso": "Nomviembre 2014",
+			"fechaTermino": "Septiembre 2020",
+			"responsabilidades":[
+						"Capturar info",
+						"Validar procesos",
+						"Actualizar la aplicación"
+			]
+		}
+    ],
+	"educacion":[
+		{
+			"escuela": "Cetmar #36",
+			"gradoEstudio": "Bachillerato",
+			"fechaIngreso": "2017",
+			"fechaTermino": "2020"
+		}
+	]
+}
+
